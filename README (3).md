@@ -62,4 +62,4 @@ The data model relies heavily on standard financial DAX patterns to compute dyna
   ```
 
 ---
-## This Project is done by me (Mohamed Salah) to show my capabilities in dealing with power bi desktop, the project data is derived from Myonline TrainingHub channel from youtube
+**This Project is done by me (Mohamed Salah) to show my capabilities in dealing with power bi desktop, the project data is derived from Myonline TrainingHub channel from youtube**
